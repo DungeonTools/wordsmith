@@ -1,0 +1,17 @@
+{
+  "id": "wordsmith",
+  "title": "Wordsmith",
+  "description": "A lightweight, AI-assisted descriptive content generator for GMs, supporting NPCs, scenes, items, and more using simple slash commands like /wsmith or /ws.",
+  "version": "1.0.0",
+  "author": "DungeonTools",
+  "esmodules": ["scripts/wordsmith.js"],
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "url": "https://github.com/DungeonTools/wordsmith",
+  "manifest": "https://raw.githubusercontent.com/DungeonTools/wordsmith/main/module.json",
+  "download": "https://github.com/DungeonTools/wordsmith/releases/latest/download/module.zip",
+  "readme": "https://github.com/DungeonTools/wordsmith#readme",
+  "bugs": "https://github.com/DungeonTools/wordsmith/issues",
+  "changelog": "https://github.com/DungeonTools/wordsmith/releases",
+  "license": "MIT"
+}
