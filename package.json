@@ -1,8 +1,8 @@
 {
-  "name": "wordsmith",
+  "id": "wordsmith",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Wordsmith FoundryVTT module",
+  "main": "scripts/wordsmith.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
